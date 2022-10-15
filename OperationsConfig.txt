@@ -1,0 +1,9 @@
+POP Popper
+PUSH Pusher
+DEFINE Definer
++ Adder
+- Subtractor
+* Multiplier
+/ Divider
+SQRT RootExtractor
+PRINT Printer
